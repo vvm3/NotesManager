@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vvm3/NotesManager.git/static/css/main.2cc3c405.css",
+    "main.js": "/vvm3/NotesManager.git/static/js/main.06c8c334.js",
+    "index.html": "/vvm3/NotesManager.git/index.html",
+    "main.2cc3c405.css.map": "/vvm3/NotesManager.git/static/css/main.2cc3c405.css.map",
+    "main.06c8c334.js.map": "/vvm3/NotesManager.git/static/js/main.06c8c334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc3c405.css",
+    "static/js/main.06c8c334.js"
+  ]
+}
